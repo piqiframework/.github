@@ -1,112 +1,57 @@
-# PIQI Framework Governance
+# Welcome to the PIQI Alliance GitHub Repository
+
+Welcome to the **PIQI Alliance** repository! This project aims to enhance the implementation of the PIQI Framework within a community of practice. Below you'll find an overview of the framework, its components, and how you can contribute.
+
 ## Overview
-This is a meritocratic, consensus-based community project to support the Patient Information Quality Improvement (PIQI) Framework, its reference implementations, and any supporting information. Anyone with interest in the project can join the community, contribute to the project, and participate in the decision making process. Participation in these processes is completely voluntary. This document describes how that participation takes place and how to set about earning merit within the project community. 
 
-Although these processes are adapted from the [OSSWatch Meritocratic Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel), this documentation is a formalization of existing processes involving relevant stakeholders.
+The **PIQI Framework** is designed to be implemented within a community of practice. This collaborative approach leverages the expertise of various sector partners, including healthcare providers, health information technology companies, patient advocacy groups, and regulatory bodies. By sharing knowledge and evolving together, the community can rapidly adopt and improve the framework, ensuring it meets the evolving needs of patient-oriented care
 
-In particular, this project is a primary focus of the [Paitent Information Quality Improvement - PIQI Framework ](https://piqiframework.org).
+The community of practice supports the PIQI Framework by:
+- **Promoting Cross-Sector Collaboration**: Encouraging collaboration and knowledge sharing among diverse stakeholders to develop and implement the framework
+- **Standardizing Data Quality Assessments**: Establishing a standardized framework and taxonomy for healthcare data quality to ensure uniformity in data handling practices.
+- **Continuous Improvement**: Emphasizing ongoing monitoring and evaluation to ensure continuous improvement in data quality.
+- **Providing Training and Resources**: Offering training sessions and resources to healthcare providers for effective implementation of the quality improvement framework.
+- **Facilitating Seamless Content Sharing**: Registering and certifying implementations of the PIQI Framework to enable seamless content sharing among community members.
 
-## Roles
- 
-### Stakeholders
-Anyone can be a stakeholder; there are no special requirements; however, the most important stakeholders of this community consist of:
-- Members of government agencies that review and provide guidance as needed to support patient information quality dashboards
-- Platform or technology owners that provide software to report on patient information quality,
-- Payer and provider systems that use software to ingest or transfer patient information electronically
-  .
-Without these key stakeholders, the community would have limited value. Stakeholder participation is on a voluntary basis, but we encourage stakeholders to actively participate in the project and community as much as possible. Stakeholder contributions enable this project to ensure that they are satisfying the requirements of those stakeholders. Common stakeholder contributions include (but are not limited to):
+## Table of Contents
 
-- Evangelism of the project (e.g. a link on a website and word-of-mouth awareness)
-- Informing developers of strengths and weaknesses from a new stakeholder perspective
-- Providing moral support (a ‘thank you’ goes a long way)
-- Stakeholders who continue to engage with the project and its community will often become more and more involved. Such stakeholders may find themselves becoming contributors, as described in the next section.
+- Overview
+- PIQI Model Extensions
+- Shared Simple Assessment Modules
+- Shared Evaluation Profiles
+- PIQI Endpoint Registration
+- Contributing
+- License
 
-### Contributors
-Contributors are community members who contribute in concrete ways to piqi-rubrics. Anyone can become a contributor, and contributions can take many forms. There is no expectation of commitment to the project, no specific skill requirements and no selection process. In addition to their actions as stakeholders, contributors may also find themselves doing one or more of the following:
+## PIQI Model Extensions
 
-- Supporting new users (existing users are often the best people to support new users)
-- Reporting bugs
-- Identifying requirements
-- Providing graphics and web design
-- Programming
-- Assisting with project infrastructure
-- Writing documentation
-- Fixing bugs
-- Adding features
+The PIQI Framework starts with a simple model intended to support the assessment of core clinical patient data. The simplicity of this model allows for extension through the addition of attributes, elements, and data classes. Ideally, these extensions would be adopted into the core PIQI model through a standard process.
 
+## Shared Simple Assessment Modules
 
+While many of the foundational, attribute-level SAMs are algorithmic, SAMs that apply to codable concepts, elements, data classes, and patient-level data often require structured content in the form of value sets, tuples, and other data patterns. These data packages can be openly shared or licensed in a community portal. More sophisticated algorithmic SAMs, perhaps based on generative AI, could also be hosted as RESTful services through wrapper SAM interfaces.
 
-### Committers
-Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the Project Management Committee (PMC; see below). Committer voting is one of the few activities that takes place on the private management list. This is to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public chat. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature.PIQI Alliance.
+## Shared Evaluation Profiles
 
-### Project Management Committee (PMC)
-The PMC consists of those individuals identified as ‘owners’ on the development site. In addition, PMC members are also active participants in the PIQI Alliance as defined in the PIQI Alliance charter.  The PMC is responsible for ensuring the smooth running of the project, including strategic planning, release cycles, change management, and changes to project governance.
+While the evaluation profiles in The PIQI Framework are designed to be configured to support the needs of the implementer, the ability to establish sanctioned standard evaluation profiles is one of the most beneficial features of The PIQI Framework. The ability to publish and share an evaluation profile, along with its dependent SAMs and PIQI Information Model components, can minimize duplication of effort and provide a powerful way to create a common basis for understanding data quality across the community.
 
-Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members. PMC members must also be approved by the PIQI Alliance Executive Committee.
+## PIQI Endpoint Registration
 
-#### PMC Chair
-The PMC Chair is a single individual, appointed by the PIQI Alliance Executive Committee.
+Within the community of practice, implementations of The PIQI Framework could be registered and certified to facilitate the ability to share content seamlessly with other community members.
 
-The PMC Chair has no additional authority over other members of the PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure adherence to all governance processes and has the casting vote when the community fails to reach consensus.
+## Contributing
 
-## Support
-All participants in the community are encouraged to provide support for new users. This support is provided as a way of growing the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
+We welcome contributions from the community! Please read our contributing guidelines to get started.
 
-## Decision-Making Process
-Decisions on the project such as whether to accept a change, add a feature, or what to include in a particular release, are made through discussion with all members of the community. Anyone is welcome to comment on proposed changes, but ultimately, the committers make the determination on accepting or rejecting a proposed change. Where committer consensus cannot be reached, the decision is escalated to the PMC. In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of consensus. This allows the majority of decisions to be made without resorting to a formal vote.
+## License
 
-### Consensus
-Decision making typically involves the following steps:
+This project is licensed under the Apache 2.0 licens - see the LICENSE file for details.
 
-- Proposal
-- Discussion
-- Vote (if consensus is not reached through discussion)
-- Decision
+---
 
-Any community member can make a proposal for consideration by the community. To initiate a discussion about a new idea, they should submit an issue to the project issue tracker, or, in the case of a committer, a pull request implementing the idea. This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution.
+Feel free to reach out if you have any questions or suggestions. 
 
-For the purposes of this project, consensus is not uniform agreement. It is defined as follows: if nobody explicitly opposes a proposal or change, and the functionality is aligned with the CQL specification, it is recognized as having the support of the community. That is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
-
-For consensus to be effective, it is necessary to allow sufficient time for stakeholders to review before assuming that there are no objections to the proposal. The more significant the issue, the more time is required for review, with the intent that everyone is given enough time to read, digest, and respond to the proposal. The time given for review will be chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
-
-### Voting
-Not all decisions can be made using the process of consensus. Issues such as those affecting the strategic direction, project releases, or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making.
-
-## Contributions
-The project uses a stable-trunk methodology, meaning that the master branch must be always kept in a releasable state. This is ensured through regression tests and continuous integration is used to check pull requests to the master branch.
-
-All changes to the main branch must be made using a pull request and must be reviewed by at least two committers that were not the author of the pull request prior to being applied.
-
-In addition, large, significant, or breaking changes must have full committer consensus before being applied.
-
-In general, when a new version of the CQL specification is created, a new branch of the test repository is created to implement support for that version. Although changes to this new version branch may be committed directly, best practice is to use pull requests for the new version branch as well. Once the new version of the specification is published, the tests in this repository are added.
-
-Note that changes must always align with the CQL specification. Changes made to tests in this repository will be submitted back to the informative tests published as part of the CQL specification. Any changes to the CQL specification itself are governed by HL7 and must be done through the HL7 process, either by submitting an STU comment, or balloting a new version of the specification.
-
-## Communication Channels
-Communication should be done in an open and public manner. The project uses many different channels for open communication, including:
-
-- Chat
-- Email
-- Public discrouse on PIQIAlliance channel
-- 
-Sometimes, communication occurs outside of these public channels, and that is okay; however, committers must summarize any private discussions that impact the tooling project in a public channel.
-
-## Code of Conduct
-In support of a healthy and inclusive community, we use and enforce a code of conduct for all members of our community, including committers and PMC members. Our code of conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
-
-If you encounter any violation of these terms, please contact the PMC Chair or a PMC member. All reports will be kept in strict confidence and dealt with promptly.
-
-## Issues
-This project uses the Github Issues tracker to track all issues and feature requests. Anyone can submit an issue at any time. Committers are generally responsible for reviewing, responding to, and resolving issues in a timely manner.
-
-## Releases
-All packages within the project shall use semantic versioning. Any stakeholder can propose a release, but the PMC must review and approve the contents and timing of any release. Specifically, releases must be coordinated with impacted stakeholders and timed with availability of published versions of the specifications involved.
-
-The PMC Chair is responsible for announcing releases to the community via the zulip chat. When appropriate, the PMC Chair should also announce plans for upcoming releases to solicit feedback from the community on release content and timing.
-
-## Change Management Continuous Improvement
-This project is committed to continous improvement of code and process. While changes can happen at any time, the PMC and Committers shall formally review and discuss governance bi-annually. As with all other artifacts, consensus shall be used to approve.
+---
 
 
- 
+*This repository is maintained by the PIQI Alliance team.*
