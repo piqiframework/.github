@@ -39,15 +39,15 @@ Contributors are community members who contribute in concrete ways to piqi-rubri
 ### Committers
 Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the Project Management Committee (PMC; see below). Committer voting is one of the few activities that takes place on the private management list. This is to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public chat. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature.PIQI Alliance.
 
-### Project Management Committee (PMC)
-The PMC consists of those individuals identified as ‘owners’ on the development site. In addition, PMC members are also active participants in the PIQI Alliance as defined in the PIQI Alliance charter.  The PMC is responsible for ensuring the smooth running of the project, including strategic planning, release cycles, change management, and changes to project governance.
+### Framework Technical Steering Committee (FTSC)
+The FTSC consists of those individuals identified as ‘owners’ on the development site. In addition, FTGC members will also play an active role in the Framework Steering Committee (FSC) in the PIQI Alliance as defined in the PIQI Alliance charter.  The FTSC is responsible for ensuring the smooth running of the project, including strategic planning, release cycles, change management, and changes to project governance.
 
-Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members. PMC members must also be approved by the PIQI Alliance Executive Committee.
+Membership of the FTSC is by invitation from existing FTSC members or PIQI Alliance Executive Steering Committee (ESC). A nomination will result in discussion and then a vote by the existing FTSC members. FTSC membership votes are subject to consensus approval of the current FTSC members. FTSC members must also be approved by the PIQI Alliance ESC.
 
-#### PMC Chair
-The PMC Chair is a single individual, appointed by the PIQI Alliance Executive Committee.
+#### FTSC Chair
+The FTSC Chair is a single individual, appointed by the PIQI Alliance Executive Committee.
 
-The PMC Chair has no additional authority over other members of the PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure adherence to all governance processes and has the casting vote when the community fails to reach consensus.
+The FTSC Chair has no additional authority over other members of the FTSC: the role is one of coordinator and facilitator. The Chair is also expected to ensure adherence to all governance processes and has the casting vote when the community fails to reach consensus.
 
 ## Support
 All participants in the community are encouraged to provide support for new users. This support is provided as a way of growing the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
