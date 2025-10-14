@@ -2,75 +2,85 @@
 ## Overview
 This is a meritocratic, consensus-based community project to support the Patient Information Quality Improvement (PIQI) Framework, its reference implementations, and any supporting information. Anyone with interest in the project can join the community, contribute to the project, and participate in the decision making process. Participation in these processes is completely voluntary. This document describes how that participation takes place and how to set about earning merit within the project community. 
 
+The PIQI Alliance consists of senior representatives of the member companies as well as subject matter experts. All representatives of the Executive Steering Committee and Community Members (described below) will participate in oversight and workflow as well as supply in-kind resources to support the technical implementation of the open standards and reference implementations to measure patient data quality.
+
 Although these processes are adapted from the [OSSWatch Meritocratic Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel), this documentation is a formalization of existing processes involving relevant stakeholders.
 
 In particular, this project is a primary focus of the [Paitent Information Quality Improvement - PIQI Framework ](https://piqiframework.org).
 
+
 ## Roles
  
-### Stakeholders
-Anyone can be a stakeholder; there are no special requirements; however, the most important stakeholders of this community consist of:
-- Members of government agencies that review and provide guidance as needed to support patient information quality dashboards
-- Platform or technology owners that provide software to report on patient information quality,
-- Payer and provider systems that use software to ingest or transfer patient information electronically
-  .
-Without these key stakeholders, the community would have limited value. Stakeholder participation is on a voluntary basis, but we encourage stakeholders to actively participate in the project and community as much as possible. Stakeholder contributions enable this project to ensure that they are satisfying the requirements of those stakeholders. Common stakeholder contributions include (but are not limited to):
+### Executive Steering Committee
 
-- Evangelism of the project (e.g. a link on a website and word-of-mouth awareness)
-- Informing developers of strengths and weaknesses from a new stakeholder perspective
-- Providing moral support (a ‘thank you’ goes a long way)
-- Stakeholders who continue to engage with the project and its community will often become more and more involved. Such stakeholders may find themselves becoming contributors, as described in the next section.
+The PIQI Alliance will operate by means of an Executive Steering Committee (ESC). The ESC will approve the group’s specific agenda and policy positions, establish goals and objectives, and oversee the overall direction of the Alliance. Workgroups may be created as desired by ESC members to research and address specific issues or questions. This could evolve to more formal communities of practice as the alliance matures. Each Workgroup will be composed of ESC members, Community Members, and Government Observers to ensure diverse perspectives and broad engagement.
 
-### Contributors
-Contributors are community members who contribute in concrete ways to the piqiframework. Anyone can become a contributor, and contributions can take many forms. There is no expectation of commitment to the project, no specific skill requirements and no selection process. In addition to their actions as stakeholders, contributors may also find themselves doing one or more of the following:
+### Community Members
 
-- Supporting new users (existing users are often the best people to support new users)
-- Reporting bugs
-- Identifying requirements
-- Providing graphics and web design
-- Programming
-- Assisting with project infrastructure
-- Writing documentation
-- Fixing bugs
-- Adding features
+The PIQI Alliance will be made up of key stakeholders, implementers, and experts in patient data quality measurement from a cross-section of the industry as designated by the ESC.
 
+All members hold equal voices and decision-making authority. This ensures a balanced representation of perspectives and expertise in guiding the direction of the PIQI Alliance. In the event of a tie, a neutral convener within the ESC, will hold the tie-breaking vote. Any open standards will be published to HL7. Any actual technical work products (for example, implementations of evaluation profiles, Simple Assessment Modules, or other similar artifacts) will be governed under the Apache 2.0 license.
+
+Final deliverables from the PIQI Alliance will be open source. Consequently, anyone can be a member of the community; there are no special requirements. However, the most important members in this community consist of:
+
+·       Platform or technology owners that provide software to report on patient information quality.
+
+·       Any business entity that used software to ingest of transfer patient information electronically (e.g. payers, providers, labs, research institutions, etc.).
+
+### Government Observers
+
+Data quality is a critical issue to reduce fraud, waste, and abuse (FWA) in government-sponsored health plans as well as manage the health and wellness of those members. Feedback from key agencies that are evaluating health care data will ensure PIQI will support all critical use cases for these products.
 
 
 ### Committers
-Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the Framework Technical Steering Committee (FTSC; see below) and their firm must also meaningfully contribute to the PIQI Alliance [PIQI Alliance]([https://link-url-here.org](https://piqialliance.atlassian.net/)). Committer voting is one of the few activities that takes place on the private management list. This is to allow FTSC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public chat. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the FTSC Chair and will be anonymous and constructive in nature.
-
-### Framework Technical Steering Committee (FTSC)
-The FTSC consists of those individuals identified as ‘owners’ on the development site. In addition, FTGC members will also play an active role in the Framework Steering Committee (FSC) in the PIQI Alliance as defined in the [PIQI Alliance charter](https://piqialliance.atlassian.net/wiki/spaces/PIQIAllian/pages/8781825/PIQI+Alliance+Charter).  The FTSC is responsible for ensuring the smooth running of the project, including strategic planning, release cycles, change management, and changes to project governance.
-
-Membership of the FTSC is by invitation from existing FTSC members or PIQI Alliance Executive Steering Committee (ESC). A nomination will result in discussion and then a vote by the existing FTSC members. FTSC membership votes are subject to consensus approval of the current FTSC members. FTSC members must also be approved by the PIQI Alliance ESC.
-
-#### FTSC Chair
-The FTSC Chair is a single individual, appointed by the PIQI Alliance Executive Committee.
-
-The FTSC Chair has no additional authority over other members of the FTSC: the role is one of coordinator and facilitator. The Chair is also expected to ensure adherence to all governance processes and has the casting vote when the community fails to reach consensus.
-
-## Support
-All participants in the community are encouraged to provide support for new users. This support is provided as a way of growing the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
+Committers are Community Members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by Executive Steering Committee (ESC; see below) and their firm must also meaningfully contribute to the PIQI Alliance [PIQI Alliance]([https://link-url-here.org](https://piqialliance.atlassian.net/)). Committer voting is one of the few activities that takes place on the private management list. This is to allow members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published on the public chat. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the ESC and will be anonymous and constructive in nature.
 
 ## Decision-Making Process
-Decisions on the project such as whether to accept a change, add a feature, or what to include in a particular release, are made through discussion with all members of the community. Anyone is welcome to comment on proposed changes, but ultimately, the committers make the determination on accepting or rejecting a proposed change. Where committer consensus cannot be reached, the decision is escalated to the PMC. In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of consensus. This allows the majority of decisions to be made without resorting to a formal vote.
+The PIQI Alliance, as a community of practice, is a consensus-driven organization. The following principles and procedures will be followed. While each member will have an equal voice, no single organization will have a “veto” in the PIQI Alliance.
 
-### Consensus
-Decision making typically involves the following steps:
+Decisions on the project such as whether to accept a change, add a feature, or what to include in a particular release, are made through discussion with all members of the community. Anyone is welcome to comment on proposed changes, but ultimately, the committers make the determination on accepting or rejecting a proposed change. Where committer consensus cannot be reached, the decision is escalated to the ESC. In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
-- Proposal
-- Discussion
-- Vote (if consensus is not reached through discussion)
-- Decision
+### Principles of Consensus
 
-Any community member can make a proposal for consideration by the community. To initiate a discussion about a new idea, they should submit an issue to the project issue tracker, or, in the case of a committer, a pull request implementing the idea. This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution.
+The following principles will be followed for all deliverables maintained by the PIQI Alliance:
 
-For the purposes of this project, consensus is not uniform agreement. It is defined as follows: if nobody explicitly opposes a proposal or change, and the functionality is aligned with the CQL specification, it is recognized as having the support of the community. That is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
+Principle One: Seek informed consensus. All members have a responsibility to share and seek input for proposed changes.
 
-For consensus to be effective, it is necessary to allow sufficient time for stakeholders to review before assuming that there are no objections to the proposal. The more significant the issue, the more time is required for review, with the intent that everyone is given enough time to read, digest, and respond to the proposal. The time given for review will be chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
+Principle Two: Consensus is Not Uniform Agreement. Achieving consensus inherently involves a process of give and take amongst members. It is assumed not all members will achieve ideal positions for all proposed changes. This is recognized as normal and acceptable in the process to achieving consensus to advance shared objectives.
 
-### Voting
-Not all decisions can be made using the process of consensus. Issues such as those affecting the strategic direction, project releases, or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making.
+Principle Three: Recognize and report minority opinions. As part of the decision process, objections should be noted and acknowledged before decisions are made. This ensures that all voices are heard.
+
+Principle Four: When there is no active objection, consent is implied. This requires careful planning for all changes. For this type of consensus to be effective, it is necessary to allow sufficient time for stakeholders to review proposed decisions before assuming that there are no objections. For more significant issues, more time must be provided to enable discussion within their organizations to consider the impacts. This will provide the framework for all members, regardless of location or other commitments, will have sufficient time to read, digest, and respond to the proposal..
+
+Principle Five: Continuously move toward a productive conclusion. All members have a responsibility to adhere to the shared principles and values of the Alliance. Active collaboration is continuously required. This principle implies the following core goals:
+
+·       An equal opportunity for each member to express its positions and objectives.
+
+·       A desire to collectively engage in a consensus process to build new content and policy together.
+
+·       Professional respect and honest dialogue to foster genuine consideration of proposals, suggestions, and positions put forward by members
+
+### Procedures of Consensus
+
+1. Consensus does not require perfect agreement.
+
+Consensus means the group has reached a conclusion the entire group is prepared to endorse. 
+
+2. Consensus does not require zero reservations or doubts, but does indicate that there is enough agreement that members are willing to support advancing the recommendation as a “consensus.” 
+
+3. As the Alliance facilitator, Leavitt Partners will help declare when a consensus exists.
+
+In absence of a consensus, Leavitt Partners may declare a “near consensus” which will serve as the new basis from which to work to refine thinking and achieve consensus.
+
+4. In absence of a Near Consensus, the parties agree to move forward with the following options:
+
+Members agree to table the issue
+
+Issue may be addressed it at a later date, or
+
+Group members may decide the issue is not one that is in scope for the Alliance.
+
+In rare cases, a single member who is objecting to a broader, deeper consensus and direction of the Alliance may conclude that the work as evolved in a manner unaligned with the member’s organizational focus. In such rare case, the single member organization may choose to withdraw from the Alliance.
 
 ## Contributions
 The project uses a stable-trunk methodology, meaning that the master branch must be always kept in a releasable state. This is ensured through regression tests and continuous integration is used to check pull requests to the master branch.
@@ -79,9 +89,9 @@ All changes to the main branch must be made using a pull request and must be rev
 
 In addition, large, significant, or breaking changes must have full committer consensus before being applied.
 
-In general, when a new version of the CQL specification is created, a new branch of the test repository is created to implement support for that version. Although changes to this new version branch may be committed directly, best practice is to use pull requests for the new version branch as well. Once the new version of the specification is published, the tests in this repository are added.
+In general, when a new version is created, a new branch of the test repository is created to implement support for that version. Although changes to this new version branch may be committed directly, best practice is to use pull requests for the new version branch as well. Once the new version of the specification is published, the tests in this repository are added.
 
-Note that changes must always align with the CQL specification. Changes made to tests in this repository will be submitted back to the informative tests published as part of the CQL specification. Any changes to the CQL specification itself are governed by HL7 and must be done through the HL7 process, either by submitting an STU comment, or balloting a new version of the specification.
+Note that changes must always align with the specification. Changes made in this repository will be submitted back to the informative tests published as part of the specification. Any changes to the specification itself are governed by HL7 and must be done through the HL7 process, either by submitting an STU comment, or balloting a new version of the specification.
 
 ## Communication Channels
 Communication should be done in an open and public manner. The project uses many different channels for open communication, including:
@@ -89,24 +99,24 @@ Communication should be done in an open and public manner. The project uses many
 - Chat
 - Email
 - Public discrouse on PIQIAlliance channel
-- 
+  
 Sometimes, communication occurs outside of these public channels, and that is okay; however, committers must summarize any private discussions that impact the tooling project in a public channel.
 
 ## Code of Conduct
-In support of a healthy and inclusive community, we use and enforce a code of conduct for all members of our community, including committers and PMC members. Our code of conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
+In support of a healthy and inclusive community, we use and enforce a code of conduct for all members of our community, including committers and ESC members. Our code of conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
 
-If you encounter any violation of these terms, please contact the PMC Chair or a PMC member. All reports will be kept in strict confidence and dealt with promptly.
+If you encounter any violation of these terms, please contact ESC members. All reports will be kept in strict confidence and dealt with promptly.
 
 ## Issues
 This project uses the Github Issues tracker to track all issues and feature requests. Anyone can submit an issue at any time. Committers are generally responsible for reviewing, responding to, and resolving issues in a timely manner.
 
 ## Releases
-All packages within the project shall use semantic versioning. Any stakeholder can propose a release, but the PMC must review and approve the contents and timing of any release. Specifically, releases must be coordinated with impacted stakeholders and timed with availability of published versions of the specifications involved.
+All packages within the project shall use semantic versioning. Any stakeholder can propose a release, but the ESC must review and approve the contents and timing of any release. Specifically, releases must be coordinated with impacted stakeholders and timed with availability of published versions of the specifications involved.
 
-The PMC Chair is responsible for announcing releases to the community via the zulip chat. When appropriate, the PMC Chair should also announce plans for upcoming releases to solicit feedback from the community on release content and timing.
+The ESC is responsible for announcing releases to the community via the zulip chat. When appropriate, the ESC should also announce plans for upcoming releases to solicit feedback from the community on release content and timing.
 
 ## Change Management Continuous Improvement
-This project is committed to continous improvement of code and process. While changes can happen at any time, the PMC and Committers shall formally review and discuss governance bi-annually. As with all other artifacts, consensus shall be used to approve.
+This project is committed to continous improvement of code and process. While changes can happen at any time, the ESC and Committers shall formally review and discuss governance bi-annually. As with all other artifacts, consensus shall be used to approve.
 
 
  
