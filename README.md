@@ -47,6 +47,8 @@ We welcome contributions from the community! Please read our contributing guidel
 
 This project is licensed under the Apache 2.0 licens - see the LICENSE file for details.
 
+PIQI Framework Copyright 2025 Clinical Architecture, LLC
+
 ---
 
 Feel free to reach out if you have any questions or suggestions. 
